@@ -1,7 +1,7 @@
 # doctoral-thesis
 This respository contains all of the Matlab code used in the thesis of Evan Mitchell, entitled "Coevolution of hosts and pathogens in the presence of multiple types of hosts", completed as part of the requirements for the degree Doctor of Philosophy at the University of Western Ontario. All of the code contained in this repository was written by EM.
 
-#### Files in chapter-2
+### Files in chapter-2
 - checkESSAlpha_VT.m --> function to check that the equilibrium values of alpha satisfy the evolutionary stability condition
 - checkESSGamma_VT.m --> function to check that the equilibrium values of gamma satisfy the evolutionary stability condition
 - findCSS_VT.m --> function to approximate the convergence stable evolutionary equilibrium
@@ -14,7 +14,7 @@ This respository contains all of the Matlab code used in the thesis of Evan Mitc
 - sgradGammaF_VT.m --> function to define the selection gradient for gamma in female hosts
 - sgradGammaM_VT.m --> function to define the selection gradient for gamma in male hosts
     
-#### Files in chapter-3
+### Files in chapter-3
 - b00.m --> function to compute the transmission rate beta_00
 - b01.m --> function to compute the transmission rate beta_01
 - b10.m --> function to compute the transmission rate beta_10
